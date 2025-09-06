@@ -1,8 +1,10 @@
+# COCOA app - Learn SQL with cats and chocolate
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="882" height="777" alt="immagine" src="https://github.com/user-attachments/assets/ef7922a5-47cb-4b5b-80a7-30d151fe8186" />
 </div>
+This is an application created with AI studio that has still to be deployed.
 
-# Run and deploy your AI Studio app
+## Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
